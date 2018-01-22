@@ -1,0 +1,136 @@
+body {
+    background-color: #421c52;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #000;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    word-spacing: 30px;
+    border-radius: 10px;
+}
+
+footer {
+    color: #fff;
+}
+
+.navbar {
+    background-color: #421c52;
+    opacity: 0.7;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+}
+
+.main-tag {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    font-color: ;
+    padding-top: 60px;
+}
+
+.content {
+    background-color: #eee;
+    margin: 60px 50px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.title {
+    font-family: 'Lato', sans-serif;
+    font-size: 400%;
+    text-align: center;
+}
+
+.sub-head {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 180%;
+    font-style: italic;
+}
+
+figure {
+    background-color: #fff;
+    text-align: center;
+}
+
+.pic {
+    display: inline-block;
+    margin: auto 0;
+    height: 250px;
+    width: auto;
+    border: solid 2px #421c52;
+}
+
+.newland-logo {
+    background-color: rgba(10, 59, 71, 0.85);
+    margin: 20px;
+    padding: 10px;
+}
+
+.body-logo {
+    width: 120px;
+    height: auto;
+    padding: 10px;
+    display: inline-block;
+    margin: auto 70px;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+    position: absolute;
+    top: 0;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a:hover {
+    background-color: #421c52;
+    color: #FFD700;
+    transition: background-color 1000ms linear;
+}
+
+.navbar a {
+    color: #fff !important;
+    font-size: 20px;
+}
+
+footer a {
+    color: #fff !important;
+}
+
+.tagline-format {
+    text-align: center;
+    font-size: 40px;
+}
+
+.git-logo {
+    width: 170px !important;
+}
+
+.btn-warning {
+    background-color: #8f699f !important;
+    border-color: #5c366c !important;
+}
+
+.btn-warning:hover {
+    background-color: #421c52 !important;
+    border-color: #290339 !important;
+}
